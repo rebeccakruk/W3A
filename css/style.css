@@ -1,0 +1,11 @@
+html{
+    background-color: ivory;
+}
+
+
+
+h1 {
+    color:darkred;
+    text-align: center;
+    cursor: pointer;
+}
